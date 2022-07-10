@@ -1,1 +1,5 @@
-Aprendiendo git
+Esta es la historia de Claudia
+
+Tiene 44 años  y nacio en CDMX
+
+Hoy hablaremos de su historia y vida
